@@ -230,7 +230,12 @@ To add to this research, we decided to implement a prototypical version of the K
 Further research could include making these algorithms even better by adding ways to balance the load and create multiple paths for data transmission if the best path is too crowded. Researchers could also implement these algorithms in a real life IIoT environment and test the performance against traditional routing algorithms. Our research shows the feasibility of implementing such algorithms, and further research could increase the communication efficiency dramatically in SM environments.
 
 # Availability
-The source code for our algorithm can be found at this GitHub 
+The source code for our algorithm can be found at this GitHub: https://github.com/Daanishquadri/Implementation-of-Kopa-based-Algorithm/blob/main/kopa.py
+
+# References
+
+[1] P. R. Desai, S. Mini, and D. K. Tosh, “Edge-based optimal routing in SDN-enabled Industrial Internet of Things,” IEEE Internet of Things Journal, vol. 9, no. 19, pp. 18898–18907, 2022. doi:10.1109/jiot.2022.3163228 
+
 
 
 
