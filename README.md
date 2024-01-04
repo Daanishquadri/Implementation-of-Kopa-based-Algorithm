@@ -87,11 +87,7 @@ The time complexity of the KOPA algorithm is given as
 where n is the number of nodes in the network, and K is the number of clusters.
 The pseudo code for the next two algorithms are shown in Figures 2 and 3. They find the optimal communication length in different manners than KOPA, however they have a similar structure. The algorithm that we have chosen to base our implementation off of is the KOPA algorithm, which is why we have chosen to explain that one much more thoroughly than the others.
 
-# 2.3 Performance of Algorithms
 
-To measure the performance of this algorithm, the authors use common evaluators for the performance of SDN with IIoT. These markers include efficiency, round-trip time (RTT), throughput, and the total cycle time.
-
-The efficiency of the routing algorithm, denoted by η, is dependent on transmission time, propagation delay, queuing delay, and processing delay. Figure 4 shows the comparison in η between five routing algorithms, COPA, MIOPA, KOPA, DSPA, and adaptive transmission power optimization (ATOP). The figure shows that KOPA falls short to COPA and MIOPA, however it outperforms the other traditional routing 
 
 
 
